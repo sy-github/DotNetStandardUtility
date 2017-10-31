@@ -2,5 +2,5 @@
 
 A light-weight utility library targeting .Net Standard.
 
-* PropertyNotifier: Base class wrapper for IPropertyNotifer
+* PropertyChangeNotifier: Base class wrapper for INotifyPropertyChanged
 * SimpleCommand: Base class wrapper for ICommand
